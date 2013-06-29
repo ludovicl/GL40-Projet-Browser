@@ -1,0 +1,8 @@
+*.pro.user
+*.pro.user*
+
+*.user
+projectBrowser.pro.user.*
+*.user
+.DS_Store
+
